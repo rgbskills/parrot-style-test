@@ -1,0 +1,33 @@
+/* --component:base start-- */
+/* --html start--
+<div class="box">
+<h1>Example box</h1>
+<p>
+lorem ipsum dolor sit amit <i>conseptum</i>
+dinum ocolor pinum normol comment.
+</p>
+</div>
+*/
+
+/* --css start-- */
+.box{
+  width: 200px;
+  height:100px;
+  background-color: red;
+  padding: 20px;
+  border: 2px dolis green;
+  margin:20px;
+}
+
+.box h1{
+  color: pink;
+  font-size: 20px;
+}
+.box p{
+  color: #000000;
+  font-size: 24px;
+  line-height: 21px;
+}
+/* --css end-- */
+
+/* --component:base end-- */
